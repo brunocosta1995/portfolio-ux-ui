@@ -9,7 +9,7 @@ import {
 
 import { CTA, Brand, Navbar } from "./components";
 
-import './App.css';
+import "./App.css";
 
 export default function App() {
   return (
